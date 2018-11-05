@@ -3,6 +3,7 @@
 - manifest.json
 - pwabuilder-sw-register.js - to register service worker
 - pwabuilder-sw.js - basic service worker to show a specific file when the device i offline
+- offline.html an example page to be shown when offline
 
 Basic iOS metatags to go in the html head section:
 
