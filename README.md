@@ -3,11 +3,10 @@
 - manifest.json
 - pwabuilder-sw-register.js - to register service worker
 - pwabuilder-sw.js - basic service worker to show a specific file when the device i offline
-- offline.html an example page to be shown when offline
 
 Basic iOS metatags to go in the html head section:
 
-```<meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="start_url" content="/huset/mobil">
 <meta name="apple-mobile-web-app-title" content="HUSET KBH">
